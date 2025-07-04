@@ -1,0 +1,1 @@
+# API-Open-meteo-temperatura-por-cidade

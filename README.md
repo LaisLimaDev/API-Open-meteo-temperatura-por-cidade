@@ -72,13 +72,3 @@ Durante o desenvolvimento, utilizei IA para:
 
 Aprendi sobre organização de projetos Python, uso de APIs públicas, tratamento de exceções e testes automatizados. O maior desafio foi lidar com imports relativos e integração com o GitHub.
 
-## Orgulho
-
-Tenho orgulho de ter estruturado o projeto de forma modular e funcional, facilitando manutenção e expansão.
-
-## Melhorias futuras
-
-Se tivesse mais tempo, adicionaria:
-- Interface gráfica simples.
-- Mais opções de informações meteorológicas.
-- Testes automatizados mais robustos (com mocks das APIs).
